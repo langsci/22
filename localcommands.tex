@@ -1,6 +1,5 @@
 %add all your local new commands to this file
 \newcommand{\PS}{Pite Saami}
-\newcommand{\REF}[1]{(\ref{#1})}%adds parenthesis around the reference number, particularly useful for examples.
 \newcommand{\textstyleVernacularword}{\emph}
 \newcommand{\textstyleGloss}{\textsc}
 \newcommand{\textstyleIPA}{}
@@ -88,13 +87,7 @@
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-% \makeindex
-% \newindex{lan}{ldx}{lnd}{Language index}
-% \newindex{aut}{adx}{and}{Name index}
-% \renewindex{default}{idx}{ind}{Subject index}
-% \newindex{wrd}{wdx}{wnd}{Expression index}
-% \newindex{rwrd}{rdx}{rnd}{Reverse expression index}
+ 
 
 \renewcommand{\langinfo}[3]{{\upshape #1%
 {\il{#1}}~%
@@ -109,8 +102,7 @@
 \renewcommand{\Tilde}{∼}    
      
 \newcommand{\upshapefootnotemark}{{\upshape\footnotemark}}
-\newcommand{\ob}{{\upshape [}}
-\newcommand{\cb}{{\upshape ]}}
+ 
 
 \renewcommand{\SS}{\S}
 \newcommand{\tabtrs}[3]{\parbox{#1}{#2\\[-.3em]\upshape#3}}
