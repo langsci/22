@@ -3,9 +3,10 @@
 ## Publication Info
 
 - Editor: Marian Klamer
-- Publication Date: 2014-12-05
+- Publication Date: not yet published
 - Series: Studies in Diversity Linguistics 
 - Volume: 3
+- Second Edition
 
 ## Description
 
@@ -22,7 +23,7 @@ Unlike many other Papuan languages, Alor-Pantar languages do not exhibit clause-
 
 ## License
 
-Copyright: (c) 2014, the authors.
+Copyright: (c) 2017, the authors.
 
 All data, code and documentation in this repository is published under the
 [Creative Commons Attribution 4.0 Licence](http://creativecommons.org/licenses/by/4.0/)
