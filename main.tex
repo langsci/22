@@ -3,9 +3,8 @@
 		,nonflat
 	        ,collection
 	        ,collectionchapter
-% 	        ,collectiontoclong
- 	        ,biblatex   
-		,multiauthors
+	        ,colorlinks
+ 	        ,biblatex    
 		  ]{langsci/langscibook}         
 
 \bibliography{localbibliography}
@@ -30,12 +29,14 @@
 \currentpdfbookmark{Contents}{name} % adds a PDF bookmark
 \tableofcontents
 
-\setcounter{chapter}{-2}
+
 \includepaper{chapters/preface}
 \includepaper{chapters/prefaceSecond}
 % \include{chapters/acknowledgments}
 
-\mainmatter       
+\rohead{\lsCollectionPaperHeaderTitle}
+\mainmatter   
+\setcounter{chapter}{0}
 % % 
 \includepaper{chapters/01intro} 
 \includepaper{chapters/02history} 
