@@ -1103,8 +1103,6 @@ Proofreading:
 Open reviewing:
 \@openreviewer \\
 \fi
-Editors: Claire Bowern, Laurence Horn, and Raffaella Zanuttini,
- in collaboration with Ryan Bennett, Bob Frank, Maria Piñango, Jason Shaw, and Jim Wood\\
 Fonts: Linux Libertine, Arimo, DejaVu Sans Mono\lsAdditionalFontsImprint\\
 Typesetting software: \XeLaTeX
 
