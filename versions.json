@@ -1,0 +1,13 @@
+{
+  "versions": [{
+    "versiontype": "first_edition",
+    "title": "The Alor-Pantar languages",
+    "authors": [{"name": "Marian Klamer"}],
+    "publishedAt": "2014-09-06T00:00:33.000Z"
+  },{
+    "versiontype": "second_edition",
+    "title": "The Alor-Pantar languages",
+    "authors": [{"name": "Marian Klamer"}],
+    "publishedAt": "2017-06-26T00:00:33.000Z"
+  }]
+}
